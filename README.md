@@ -1,6 +1,6 @@
    - 👋 Hi, I’m @let-sampaio
   - 👀 i'm a brazilian student of the computer engineering at the IFCE campus Fortaleza
-   - Now i am studying Python, PHP, HTML e CSS, and trying to graduate ^^ 
+   - Now i am studying Python, HTML,CSS,JS and trying to graduate ^^ 
 
 <!--
 let-sampaio/let-sampaio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
